@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=DocentSzachista&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=DocentSzachista&theme=dark"  />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DocentSzachista&hide=PHP,javascript&layout=compact&theme=dark" />
+<a href="https://github.com/anuraghazra/github-readme-stats" >
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DocentSzachista&hide=PHP,javascript&layout=compact&theme=dark" width="410"/>
 </a>
