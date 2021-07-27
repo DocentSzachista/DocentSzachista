@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+I am a student in Computer Science at <a href="https://pwr.edu.pl/"> Wroclaw's University of Science and Technology</a> and here are some stats about me.  
 <!--
 **DocentSzachista/DocentSzachista** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
