@@ -4,6 +4,11 @@ I am a student of Computer Science at <a href="https://pwr.edu.pl/"> Wroclaw's U
  - python script to webscrapp chess tournaments and display its data on a website or allow send information via emails.
  - bachelor degree work about applications of supervised learning with imbalanced data.
 
+What do I like to do in my spare time:
+ - Automate things that I normally have to do manually
+ - Learn new things 
+ - Play chess  
+ 
 Below you can find some stats about me: 
 <!--
 **DocentSzachista/DocentSzachista** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
