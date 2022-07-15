@@ -3,7 +3,7 @@
 I am a student of Computer Science at <a href="https://pwr.edu.pl/"> Wroclaw's University of Science and Technology</a>. I am currently  working on:
  - python script to webscrapp chess tournaments and display its data on a website or allow send information via emails.
  - bachelor degree work about applications of supervised learning with imbalanced data.
-
+ - providing new features for electoral students system 
 What do I like to do in my spare time:
  - Automate things that I normally have to do manually
  - Learn new things 
