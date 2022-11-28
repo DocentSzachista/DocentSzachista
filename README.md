@@ -8,30 +8,13 @@ What do I like to do in my spare time:
  - Automate things that I normally have to do manually
  - Learn new things
  - Play chess (Trying to achieve 1500 FIDE ranking until end of this year - currently at 1400, - started from 1360)
- - read books (Currently I read Hyperion series by Dan Simmons)
+ - read books (Currently I am reading Hyperion series by Dan Simmons)
+
 Below you can find some stats about me: 
-<!--
-**DocentSzachista/DocentSzachista** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-
-
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=DocentSzachista&theme=dark"  />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats" >
+<!-- <a href="https://github.com/anuraghazra/github-readme-stats" >
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DocentSzachista&hide=PHP,javascript,Jupyter Notebook&layout=compact&theme=dark" width="410"/>
-</a>
+</a> -->
