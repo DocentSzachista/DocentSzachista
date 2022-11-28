@@ -1,14 +1,14 @@
 ### Hi there 👋
 
 I am a student of Computer Science at <a href="https://pwr.edu.pl/"> Wroclaw's University of Science and Technology</a>. I am currently  working on:
- - bachelor degree work about applications of supervised learning with imbalanced data.
- - providing new features for electoral students system 
+ - bachelor degree work about applications of supervised learning with imbalanced data. ( currently on refactor stage both with project and thesis )
+ - refactor my script to webscrapp two certain webpages. 
  
 What do I like to do in my spare time:
  - Automate things that I normally have to do manually
- - Learn new things 
- - Play chess  
- 
+ - Learn new things
+ - Play chess (Trying to achieve 1500 FIDE ranking until end of this year - currently at 1400, - started from 1360)
+ - read books (Currently I read Hyperion series by Dan Simmons)
 Below you can find some stats about me: 
 <!--
 **DocentSzachista/DocentSzachista** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
