@@ -10,7 +10,7 @@ What do I like to do in my spare time:
  - Play chess (Trying to achieve 1500 FIDE ranking until July - currently I have 1437).
  - Read books (Currently I am reading Hyperion series by Dan Simmons).
  - Cook new things 
- - Write haikus
+ - Write <a href="https://docentszachista.github.io/poems/">poems</a>
 
 <!-- Below you can find some stats about me:  -->
 <!-- 
