@@ -7,7 +7,7 @@ I am a student of Computer Engineering at <a href="https://pwr.edu.pl/"> Wroclaw
 What do I like to do in my spare time:
  - Automate things that I normally have to do manually.
  - Learn new things.
- - Play chess (Trying to achieve 1500 FIDE ranking until July - currently I have 1437).
+ - Play chess (Currently saving energy, so I can focus on my thesis).
  - Read books (Currently I am reading Hyperion series by Dan Simmons).
  - Cook new things 
  - Write <a href="https://docentszachista.github.io/poems/">poems</a>
