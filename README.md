@@ -8,7 +8,7 @@ What do I like to do in my spare time:
  - Automate things that I normally have to do manually.
  - Learn new things.
  - Play chess (Currently saving energy, so I can focus on my thesis).
- - Read books (Currently I am reading Hyperion series by Dan Simmons).
+ - Read books (Recently I read Limes inferior written by Janusz Andrzej Zajdel ).
  - Cook new things 
  - Write <a href="https://docentszachista.github.io/poems/">poems</a>
 
