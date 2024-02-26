@@ -2,9 +2,8 @@
 
 I am a student of Computer Engineering at <a href="https://pwr.edu.pl/"> Wroclaw's University of Science and Technology</a>. I am currently:
  - pursuing my Master degree of Computer Engineering,
- - working for <a href="https://clarin.biz/">CLARIN</a> organisation at my university.   
- - working for that <a href="https://github.com/szandala">guy</a> 😃
- 
+ - working as teaching assistant at my university
+
 What do I like to do in my spare time:
  - Automate things that I normally have to do manually.
  - Learn new things.
