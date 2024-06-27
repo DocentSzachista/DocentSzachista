@@ -7,7 +7,7 @@ I am a student of Computer Engineering at <a href="https://pwr.edu.pl/"> Wroclaw
 What do I like to do in my spare time:
  - Automate things that I normally have to do manually.
  - Learn new things.
- - Play chess (Currently saving energy, so I can focus on my thesis).
+ - Play chess.
  - Read books (Recently I read Limes inferior written by Janusz Andrzej Zajdel ).
  - Cook new things 
  - Write <a href="https://docentszachista.github.io/poems/">poems</a>
