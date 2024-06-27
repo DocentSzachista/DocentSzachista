@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 I am a student of Computer Engineering at <a href="https://pwr.edu.pl/"> Wroclaw's University of Science and Technology</a>. I am currently:
- - pursuing my Master degree of Computer Engineering,
- - working as teaching assistant at my university
+ - waiting for my diploma exam (September)
+ - working as a student intern at CERN
 
 What do I like to do in my spare time:
  - Automate things that I normally have to do manually.
